@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated outputs from demos
+*_report.xlsx
+csv-to-excel-report/sample_data/*_report.xlsx
+image-batch-processor/output/
+test_output/
